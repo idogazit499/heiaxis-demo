@@ -1,0 +1,11 @@
+{
+  "name": "heiaxis-interactive-story",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Interactive HEIAXIS university pathway demo",
+  "scripts": {
+    "dev": "node server.cjs",
+    "start": "node server.cjs"
+  }
+}

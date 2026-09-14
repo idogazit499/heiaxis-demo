@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 118" role="img" aria-labelledby="title desc">
+  <title id="title">HEIAXIS</title><desc id="desc">Five abstract open doorways in blue, purple and orange.</desc>
+  <rect width="310" height="118" rx="6" fill="white"/>
+  <g fill="none" stroke-width="4">
+    <path stroke="#0a3cff" d="M18 10h32v58H18z"/><path stroke="#0a3cff" d="M60 10h32v58H60z"/><path fill="#153fe8" stroke="#0a3cff" d="M64 14l21 10v40L64 67z"/>
+    <path stroke="#4b16aa" d="M102 10h32v58h-32z"/><path fill="#4b16aa" stroke="#4b16aa" d="M106 14l21 10v40l-21 3z"/>
+    <path stroke="#ff4a12" d="M144 10h32v58h-32z"/><path fill="#ff4a12" stroke="#ff4a12" d="M148 14l21 10v40l-21 3z"/>
+  </g>
+  <text x="17" y="98" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing="9" fill="#070817">HEIAXIS</text>
+  <text x="18" y="114" font-family="Arial, Helvetica, sans-serif" font-size="8.5" letter-spacing="1.45" fill="#11162d">THE PRE-RISK CONTINUITY LAYER</text>
+</svg>

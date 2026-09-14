@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Student portrait placeholder</title><desc id="desc">Abstract portrait placeholder for Maya.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dce8ff"/><stop offset="1" stop-color="#eee3ff"/></linearGradient><linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#073dff"/><stop offset="1" stop-color="#5a20c7"/></linearGradient></defs>
+  <rect width="240" height="240" rx="120" fill="url(#bg)"/>
+  <circle cx="120" cy="88" r="48" fill="#e6af8d"/>
+  <path d="M72 95c-4-38 14-65 49-65 38 0 56 31 47 72-7-11-15-24-20-41-19 18-40 27-76 34Z" fill="#22213a"/>
+  <path d="M47 240c4-61 31-92 73-92s69 31 73 92" fill="url(#shirt)"/>
+  <circle cx="102" cy="91" r="3" fill="#202038"/><circle cx="139" cy="91" r="3" fill="#202038"/>
+  <path d="M105 113c10 8 21 8 31 0" fill="none" stroke="#9e5145" stroke-width="4" stroke-linecap="round"/>
+</svg>
